@@ -163,3 +163,13 @@ a:hover, a:focus, a:active {
   margin-right: auto !important;
   margin-left: 20px;
 }
+
+.certificates-div{
+  height: 380px;
+  width: 570px;
+}
+
+.btn-nav{
+  background-color: #0c3f5c;
+  color: white;
+}
