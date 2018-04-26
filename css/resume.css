@@ -173,3 +173,13 @@ a:hover, a:focus, a:active {
   background-color: #0c3f5c;
   color: white;
 }
+
+.hit-count-image{
+  filter: grayscale(100%);
+  filter: brightness(0.75);
+}
+
+.page-views{
+  font-weight: 600;
+  text-transform: uppercase;
+}
